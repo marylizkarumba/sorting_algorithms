@@ -1,6 +1,5 @@
 /*
  * File: 104-heap_sort.c
- * Auth: Dagem Tsehay
  */
 
 #include "sort.h"
