@@ -1,6 +1,5 @@
 /*
  * File: 103-merge_sort.c
- * Auth: Dagem Tsehay
  */
 
 #include "sort.h"
