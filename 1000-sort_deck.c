@@ -1,6 +1,5 @@
 /*
  * File: 1000-sort_deck.c
- * Auth: Dagem Tsehay
  */
 
 #include "deck.h"
