@@ -1,6 +1,5 @@
 /*
  * File: 102-counting_sort.c
- * Auth: Dagem Tsehay
  */
 
 #include "sort.h"
