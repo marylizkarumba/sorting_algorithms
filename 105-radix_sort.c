@@ -1,6 +1,5 @@
 /*
  * File: 105-radix_sort.c
- * Auth: Dagem Tsehay
  */
 
 #include "sort.h"
