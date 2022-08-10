@@ -1,6 +1,5 @@
 /*
  * File: 101-cocktail_sort_list.c
- * Auth: Dagem Tsehay
  */
 
 #include "sort.h"
